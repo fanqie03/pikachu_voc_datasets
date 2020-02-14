@@ -1,0 +1,28 @@
+<annotation>
+    <folder>pikachu</folder>
+    <filename>train_pikachu_138.png</filename>
+    <path>/home/cmf/w_learn/d2l-pytorch/data/pikachu/train_pikachu_138.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+
+    <object>
+        <name>pikachu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>88.82707977294922</xmin>
+            <ymin>102.24221801757812</ymin>
+            <xmax>124.03748321533203</xmax>
+            <ymax>146.51397705078125</ymax>
+        </bndbox>
+    </object>
+    
+</annotation>

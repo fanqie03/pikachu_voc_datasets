@@ -1,0 +1,28 @@
+<annotation>
+    <folder>pikachu</folder>
+    <filename>val_pikachu_84.png</filename>
+    <path>/home/cmf/w_learn/d2l-pytorch/data/pikachu/val_pikachu_84.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+
+    <object>
+        <name>pikachu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>88.40760040283203</xmin>
+            <ymin>91.49452209472656</ymin>
+            <xmax>108.1658706665039</xmax>
+            <ymax>125.47254943847656</ymax>
+        </bndbox>
+    </object>
+    
+</annotation>
